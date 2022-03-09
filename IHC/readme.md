@@ -3,6 +3,7 @@
 ## de acordo com o WCAG/ W3C 1.2 Time Based Media
 
 ##Principle 1 – Perceivable
+
 **Guideline 1.1 – Textos alternativos**
 Concede textos alternativos para pessoas dependentes das descrições de imagem, usando o bot leitor.
 
@@ -19,4 +20,4 @@ O site deve ser adaptável, nesse caso o site da Amazon ("https://www.amazon.com
 As cores da loja virtual da Amazon são extremamente precisas, a área da barra de pesquisa e ajudas rápidas são escuras para contrastar com as cores claras do site, o fundo é cinza claro, delimitando as áreas dos produtos que permanecem no branco. Além disso, um roxo marcante chama a atenção a uma promoção específica.
 
 
-##Principle 2 – Operable
+##**Principle 2 – Operable**
