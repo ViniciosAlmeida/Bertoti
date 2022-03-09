@@ -2,7 +2,7 @@
 ***
 ## de acordo com o WCAG/ W3C 1.2 Time Based Media
 
-##Principle 1 – Perceivable
+<h3>Principle 1 – Perceivable</h3>
 
 **Guideline 1.1 – Textos alternativos**
 Concede textos alternativos para pessoas dependentes das descrições de imagem, usando o bot leitor.
