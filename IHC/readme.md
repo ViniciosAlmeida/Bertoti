@@ -9,7 +9,7 @@ Concede textos alternativos para pessoas dependentes das descrições de imagem,
 
 <img alt="Grandão 48 Peças Dinos Toyster Brinquedos" src="https://m.media-amazon.com/images/I/517nRX+9FLL._AC_SY230_.jpg">
 
-Essa imagem do site da Amazon providencia em seu código a leitura para o bot, entretanto não descreve a imagem em si, se tornando inítil.
+Essa imagem do site da Amazon providencia em seu código a leitura para o bot, entretanto não descreve a imagem em si, se tornando inútil.
 
 
 **Guideline 1.3 – Adaptável**
