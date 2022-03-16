@@ -39,3 +39,17 @@ No site YouTube isso se faz muito presente, no teclado o "m" muta o vídeo, as s
  No site de login do Siga (https://siga.cps.sp.gov.br/aluno/login.aspx) quando terminamos de preencher as áreas de login, não podemos apertar "enter" para seguirmos ao próximo campo de informações ou até mesmo confirmá-las.
  
 <h3>Principle 3 – Entendível</h3>
+
+**Guideline 3.1 - Legível**
+https://www.techtudo.com.br/listas/2022/03/cadeira-gamer-branca-veja-6-modelos-por-a-partir-de-r-1110.ghtml é um exemplo de um site de extrema legibilidade.
+
+**Guideline 3.2 - Previsíbilidade**
+Novamente, o site https://www.leagueoflegends.com/pt-br/ é imprevisível com seus dois vídeos, o que assusta.
+
+**Guideline 3.3 - Assistencia de inputs**
+O famoso site https://google.com evita que você cometa erro ao digitar, pois caso escreva errado ele pergunta se era aquilo mesmo que você quis dizer.
+
+<h3>Principle 4 – Robusto</h3>
+
+**Guideline 4.1 - Compatível**
+Tem que ser compatível com usuários futuros, o que nos resta com o site https://www.letras.mus.br/ pois ele envelheceu mau, sua palheta de cores é antiga e a maneira que está organizada as informações incomoda.
