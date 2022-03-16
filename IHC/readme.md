@@ -26,3 +26,16 @@ As cores da loja virtual da Amazon são extremamente precisas, a área da barra 
 **Guideline 2.1 – Acessibilidade pelo teclado**
 No site YouTube isso se faz muito presente, no teclado o "m" muta o vídeo, as setas horizontais avançam e retrocendem o vídeo, as verticais aumentam e abaixam o volume, o "t" entra no modo teatro, o espaço pausa o vídeo, etc.
 
+**Guideline 2.2 - Tempo o suficiente**
+ Um bom exemplo é em
+ 
+ **Guideline 2.3 - Tamanhos e reações físicas**
+ No site https://www.leagueoflegends.com/pt-br/ assim que é aberto começa a rodar DOIS vídeos de background o que incomoda o usuário em extremo.
+ 
+ **Guideline 2.4 - Navegabilidade**
+ https://noticias.uol.com.br/ é um bom exemplo que como fazer bem, na página inicial temos uma barra de pesquisa para encontrarmos notícias e blocos com temas gerais delas, embaixo, blocos com informações breves que quando clicarmos neles, abriremos a notícia em sua integra.
+ 
+ **Guideline 2.5 - Modalidades de input**
+ No site de login do Siga (https://siga.cps.sp.gov.br/aluno/login.aspx) quando terminamos de preencher as áreas de login, não podemos apertar "enter" para seguirmos ao próximo campo de informações ou até mesmo confirmá-las.
+ 
+<h3>Principle 3 – Entendível</h3>
