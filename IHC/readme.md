@@ -27,7 +27,7 @@ As cores da loja virtual da Amazon são extremamente precisas, a área da barra 
 No site YouTube isso se faz muito presente, no teclado o "m" muta o vídeo, as setas horizontais avançam e retrocendem o vídeo, as verticais aumentam e abaixam o volume, o "t" entra no modo teatro, o espaço pausa o vídeo, etc.
 
 **Guideline 2.2 - Tempo o suficiente**
- Um bom exemplo é em
+ Um bom exemplo é no site da americanas (https://www.americanas.com.br) que mostra mega ofertas deixando-as tempo o suficiente para a leitura.
  
  **Guideline 2.3 - Tamanhos e reações físicas**
  No site https://www.leagueoflegends.com/pt-br/ assim que é aberto começa a rodar DOIS vídeos de background o que incomoda o usuário em extremo.
