@@ -1,1 +1,1 @@
-Projetos referentes a aula do professor Bertoti da Fatec
+Projetos referentes a aula do professor Bertoti da Fatec - Jessen Vidal
